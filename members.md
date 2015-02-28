@@ -164,6 +164,7 @@ Format:
 | Jonathan Mun | [jguy2591](https://github.com/jguy2591) | Basic knowledge in Java, C, html, css, javascript interested in learning more.|
 | Josef Biza | [JoB70](https://github.com/JoB70) |C# Junior software developer.|
 | Joseph Parkton | [jparkton] (https://github.com/jparkton) | Autistic + Blind, learning to code in Python |
+| Joshie Simmons | [joshua87simmons](https://github.com/joshua87simmons) | Junior Web Developer. Knows Python, PHP, Javascript. Has an interest in Haskell and functional programming. |
 | Justin Ellery | [Cellery72](https://github.com/Cellery72>) | Java, learning Python, 1st year CPA |
 | Justin Kim | [jstnk](https://github.com/jstnk) || Currently learning Python
 | Karthika Pai | [karthikapai](https://github.com/karthikapai) | C, C++, Python. learning Ruby, Ruby on Rails, HTML and CSS|
